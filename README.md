@@ -1,0 +1,4 @@
+I was listening to some YouTube video that was clearly just a AI summary read by a TTS voice, I figured I could just make it myself pretty easily for whatever I wanted to learn about. The prompt is a WIP, I'll probably keep refining it until the outputs are suitable.
+
+
+Did some samples using both ollama running llama3.2-3b locally and the OpenAI API, used the gTTS python library for TTS because its free but the outputs aren't very good so I'll most likely just use the OpenAI API and soak the cost. I'll probably also test the Gemmini API because it has longer context. I don't think thats a problem right now but if I try to go more in-depth and make it longer I might run into issues. 
